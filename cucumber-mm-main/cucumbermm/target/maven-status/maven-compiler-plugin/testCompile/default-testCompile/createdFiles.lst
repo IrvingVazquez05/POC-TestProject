@@ -1,0 +1,6 @@
+cucumbermm\restassured\RestAssuredTest.class
+cucumbermm\restassured\RestAssuredPetTest.class
+cucumbermm\wiremock\WiremockTest.class
+cucumbermm\IsItFriday.class
+cucumbermm\RunCucumberTest.class
+cucumbermm\StepDefinitions.class
